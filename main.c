@@ -8,6 +8,6 @@ int main() {
 
     printf("Введите второе целое число: ");
     scanf("%d", &b);
-
+    printf("%d", a+b);
     return 0;
 }
