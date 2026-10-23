@@ -1,0 +1,14 @@
+
+*.exe
+*.out
+*.app
+
+
+*.o
+*.obj
+
+
+*.dll
+*.so
+*.a
+*.lib
